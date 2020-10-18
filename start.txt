@@ -2,4 +2,4 @@ Test Git Quick Start Demo
 
 editing in the new branch
 now i'm doing a few edits in the new branch
-starting conflicts in the new branch
+hopefully creating conflicts between both branches
