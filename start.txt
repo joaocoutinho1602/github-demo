@@ -3,3 +3,7 @@ Test Git Quick Start Demo
 editing in the new branch
 now i'm doing a few edits in the new branch
 hopefully creating conflicts between both branches
+
+2nd try
+
+this is a new try on the main branch
